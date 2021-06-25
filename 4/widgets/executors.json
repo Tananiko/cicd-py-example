@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Tananiko.github.io/cicd-py-example",
+  "buildOrder" : 4,
+  "buildName" : "GitHub Actions Run #970527825",
+  "buildUrl" : "https://github.com/Tananiko/cicd-py-example/actions/runs/970527825",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4/"
+} ]

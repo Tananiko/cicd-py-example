@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "2e971dec9ab820d2",
+      "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4//#testresult/2e971dec9ab820d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624629870380,
+        "stop" : 1624629870380,
+        "duration" : 0
+      }
+    }, {
       "uid" : "e68d246cb96f1952",
       "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4//#testresult/e68d246cb96f1952",
       "status" : "passed",
@@ -19,36 +28,25 @@
       }
     } ]
   },
-  "8b7d100b89a9b0e22a8d6732c7ee0ba9" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "bd9d3df4a3b49d16",
-      "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4//#testresult/bd9d3df4a3b49d16",
-      "status" : "passed",
-      "time" : {
-        "start" : 1624603473924,
-        "stop" : 1624603473924,
-        "duration" : 0
-      }
-    } ]
-  },
   "dcb8fa11fdff83e2daf0e792014a33fe" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "d0f241e8764bf99",
+      "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4//#testresult/d0f241e8764bf99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624629870378,
+        "stop" : 1624629870378,
+        "duration" : 0
+      }
+    }, {
       "uid" : "604d8d8a60bf85ec",
       "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4//#testresult/604d8d8a60bf85ec",
       "status" : "passed",
@@ -64,11 +62,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "414dac3a5b003acf",
+      "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4//#testresult/414dac3a5b003acf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624629870370,
+        "stop" : 1624629870370,
+        "duration" : 0
+      }
+    }, {
       "uid" : "53d092702f679a9d",
       "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4//#testresult/53d092702f679a9d",
       "status" : "passed",
@@ -76,6 +83,35 @@
         "start" : 1624603473921,
         "stop" : 1624603473922,
         "duration" : 1
+      }
+    } ]
+  },
+  "8b7d100b89a9b0e22a8d6732c7ee0ba9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4d62b40a410af4c6",
+      "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4//#testresult/4d62b40a410af4c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624629870377,
+        "stop" : 1624629870377,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bd9d3df4a3b49d16",
+      "reportUrl" : "https://Tananiko.github.io/cicd-py-example/4//#testresult/bd9d3df4a3b49d16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624603473924,
+        "stop" : 1624603473924,
+        "duration" : 0
       }
     } ]
   }
